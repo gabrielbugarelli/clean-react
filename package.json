@@ -19,5 +19,9 @@
   "homepage": "https://github.com/gabrielbugarelli/clean-react#readme",
   "devDependencies": {
     "git-commit-msg-linter": "^3.2.8"
+  },
+  "dependencies": {
+    "@types/node": "^16.10.2",
+    "typescript": "^4.4.3"
   }
 }
